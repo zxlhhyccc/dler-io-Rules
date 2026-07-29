@@ -3,6 +3,10 @@
 domain_suffix_set:
   - ls.apple.com
 
+  # > Apple Developer
+  - appstoreconnect.apple.com
+  - itunesconnect.apple.com
+
   # > Google
   - dl.google.com
 
@@ -79,6 +83,7 @@ domain_set:
   - api.smoot.apple.cn
   - appldnld.apple.com
   - apptrailers.itunes.apple.com
+  - contentdelivery.itunes.apple.com
   - gs-loc-cn.apple.com
   - iosapps.itunes.apple.com
   - music.apple.com
