@@ -34,11 +34,6 @@ domain_suffix_set:
   # > DIA
   - diabrowser.engineering
 
-  # > Windsurf
-  - windsurf.com
-  - codeium.com
-  - codeiumdata.com
-
   # > Chorus
   - chorus.sh
 
@@ -53,10 +48,12 @@ domain_suffix_set:
   - dify.ai
 
   # > Google Gemini
+  - aisandbox-pa.googleapis.com
   - apis.google.com
   - bard.google.com
   - gemini.google
   - gemini.google.com
+  - robinfrontend-pa.googleapis.com
 
   # > Google DeepMind
   - deepmind.com
@@ -68,7 +65,6 @@ domain_suffix_set:
   - proactivebackend-pa.googleapis.com
 
   # > Google AI Studio
-  - domain_keyword,alkalimakersuite-pa.clients6.google.com
   - aistudio.google.com
   - makersuite.google.com
   - generativeai.google
@@ -87,6 +83,9 @@ domain_suffix_set:
   # > Jasper
   - clipdrop.co
   - jasper.ai
+
+  # > JetBrains
+  - jetbrains.ai
 
   # > Meta AI
   - meta.ai
@@ -169,6 +168,10 @@ domain_set:
 
   # > Sora
   # - sora-cdn.oaistatic.com
+
+domain_keyword_set:
+  # > Google AI Studio
+  - alkalimakersuite-pa.clients6.google.com
 
 # ip_cidr_set:
   # > ChatGPT Voice
