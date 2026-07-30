@@ -104,6 +104,20 @@ domain_suffix_set:
   # > POE
   - poe.com
 
+  # > Siri
+  - apple-relay.apple.com
+  - apple-relay.fastly-edge.com
+  - apple-relay.cloudflare.com
+  - apple-relay.mask.apple-dns.net
+  - guzzoni.apple.com
+  - cp4.cloudflare.com
+  - gspe1-ssl.ls.apple.com
+  - smoot.apple.com
+  - amp-api.apps.apple.com
+  - apps.mzstatic.com
+  - gateway.icloud.com
+  - updates.cdn-apple.com
+
   # > Sora
   - sora.com
   
@@ -152,11 +166,6 @@ domain_set:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - waa-pa.clients6.google.com
-
-  # > Siri
-  - apple-relay.apple.com
-  - apple-relay.cloudflare.com
-  - guzzoni.smoot.apple.com
 
   # > Sora
   # - sora-cdn.oaistatic.com
